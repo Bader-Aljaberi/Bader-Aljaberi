@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bader Aljaberi
 
-**Passionate Computer Engineering Student | Python Developer | AI & Automation Enthusiast**
+**Aspiring Computer Engineering Student | Python Developer | AI & Automation Enthusiast**
 
 Welcome to my GitHub portfolio! I'm passionate about building intelligent software solutions and exploring cutting-edge computer science concepts. My projects focus on AI applications, automation systems, and compiler technologies.
 
