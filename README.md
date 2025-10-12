@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bader Aljaberi
 
-**Computer Science Student | Python Developer | AI Enthusiast**
+**Passionate Computer Engineering Student | Python Developer | AI Enthusiast**
 
 Passionate about building practical software solutions and exploring advanced computer science concepts. Currently focused on AI applications, automation, and compiler technologies.
 
