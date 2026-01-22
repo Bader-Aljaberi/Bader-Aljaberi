@@ -12,19 +12,19 @@ Welcome to my GitHub portfolio! I'm passionate about building intelligent softwa
 - AST parsing and code analysis
 - Professional documentation pipeline
 
-### [NASA BioScience Engine](https://github.com/Bader-Aljaberi/NASA-BioScience-Knowledge-Engine)
+### [NASA BioScience Engine](https://github.com/Bader-Aljaberi/NASA-Space-Apps-Hackathon-Project)
 *Knowledge engine for NASA bioscience data*
 - Advanced search and data analysis
 - API integration and processing
 - Scientific data exploration
 
-### [Nasser Bot](https://github.com/Bader-Aljaberi/Nasser-Bot)  
+### [Nasser Bot](https://github.com/Bader-Aljaberi/nasser-bot-gcc-assistant)  
 *GCC countries information chatbot*
 - Natural language processing
 - Information retrieval system
 - Conversational AI implementation
 
-### [Voice Bridge](https://github.com/Bader-Aljaberi/Voice-Bridge)
+### [Voice Bridge](https://github.com/Bader-Aljaberi/VoiceBridge)
 *Real-time voice communication system*
 - Voice recording and playback functionality
 - Real-time audio processing
