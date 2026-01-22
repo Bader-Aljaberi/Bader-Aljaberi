@@ -6,11 +6,14 @@ Welcome to my GitHub portfolio! I'm passionate about building intelligent softwa
 
 ## 🚀 Featured Projects
 
-### [SmartDocs](https://github.com/Bader-Aljaberi/SmartDocs) 
-*Python documentation generator using Abstract Syntax Trees*
-- Automated Google-style docstring generation
-- AST parsing and code analysis
-- Professional documentation pipeline
+### [Refresh by Albader Website](https://github.com/Bader-Aljaberi/refresh-by-albader-website) ⭐ **NEW**
+*Professional business website for Technology class project*
+- **Full-stack web development** with Bootstrap 4.6
+- **Responsive design** for mobile, tablet, and desktop
+- **Interactive features** including carousel, product cards, and gallery
+- **Bahraini cultural integration** (Arabic coffee, date ice cream concepts)
+- **University project** demonstrating HTML5, CSS3, and JavaScript proficiency
+- **Professional documentation** with README, license, and testing checklist
 
 ### [NASA BioScience Engine](https://github.com/Bader-Aljaberi/NASA-Space-Apps-Hackathon-Project)
 *Knowledge engine for NASA bioscience data*
