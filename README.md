@@ -15,6 +15,16 @@ Welcome to my GitHub portfolio! I'm passionate about building intelligent softwa
 - **University project** demonstrating HTML5, CSS3, and JavaScript proficiency
 - **Professional documentation** with README, license, and testing checklist
 
+### [Albader Gallery Website](https://github.com/Bader-Aljaberi/albader-gallery-website) ⭐ **NEW**
+*Multi-page art gallery website for Technology class project*
+- **6-page website** with complete navigation system
+- **Responsive design** using CSS Grid and Flexbox
+- **Interactive contact form** with JavaScript validation
+- **Professional styling** with custom color palette
+- **Bahraini art gallery concept** featuring local artists
+- **University project** demonstrating multi-page web development
+- **Complete documentation** with requirements checklist  
+
 ### [NASA BioScience Engine](https://github.com/Bader-Aljaberi/NASA-Space-Apps-Hackathon-Project)
 *Knowledge engine for NASA bioscience data*
 - Advanced search and data analysis
