@@ -1,31 +1,23 @@
-# 👋 Hi, I'm Bader Aljaberi
+# Hi, I'm Bader Aljaberi
 
-**Aspiring Computer Science Student | Research | Social Impact Innovation**
+**Aspiring Computer Science Student | Professional Software Development | AI & Systems Engineering**
 
-Welcome to my GitHub portfolio! I'm passionate about building intelligent software solutions and exploring cutting-edge computer science concepts. My projects focus on AI applications, automation systems, and compiler technologies.
+Welcome to my GitHub portfolio! I'm passionate about building intelligent software solutions and exploring cutting-edge computer science concepts. My projects demonstrate progression from academic foundations to professional software development.
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### [Refresh by Albader Website](https://github.com/Bader-Aljaberi/refresh-by-albader-website) ⭐ **NEW**
-*Professional business website for Technology class project*
-- **Full-stack web development** with Bootstrap 4.6
-- **Responsive design** for mobile, tablet, and desktop
-- **Interactive features** including carousel, product cards, and gallery
-- **Bahraini cultural integration** (Arabic coffee, date ice cream concepts)
-- **University project** demonstrating HTML5, CSS3, and JavaScript proficiency
-- **Professional documentation** with README, license, and testing checklist
+### [Academic Track Recommendation Dashboard](https://github.com/Bader-Aljaberi/academic-track-recommender-internship) **PROFESSIONAL INTERNSHIP**
+*Full-Stack Recommendation System | Almoayyed Commercial Services*
+- **Professional Development**: Implemented during software engineering internship
+- **Production System**: AI-powered dashboard for academic track recommendations
+- **Full-Stack Architecture**: Python/Flask backend with React frontend
+- **Complex Algorithm Design**: Multi-criteria weighted scoring system
+- **Database Engineering**: PostgreSQL schema design and optimization
+- **Performance Optimization**: Redis caching implementation for scalability
+- **Professional Practices**: Agile development, code reviews, and team collaboration
+- *Note: Repository contains case study and architecture documentation only (proprietary code protected)*
 
-### [Albader Gallery Website](https://github.com/Bader-Aljaberi/albader-gallery-website) ⭐ **NEW**
-*Multi-page art gallery website for Technology class project*
-- **6-page website** with complete navigation system
-- **Responsive design** using CSS Grid and Flexbox
-- **Interactive contact form** with JavaScript validation
-- **Professional styling** with custom color palette
-- **Bahraini art gallery concept** featuring local artists
-- **University project** demonstrating multi-page web development
-- **Complete documentation** with requirements checklist  
-
-### [Arabic-English Bilingual Chatbot](https://github.com/Bader-Aljaberi/arabic-english-chatbot) 🏆 **FLAGSHIP PROJECT**
+### [Arabic-English Bilingual Chatbot](https://github.com/Bader-Aljaberi/arabic-english-chatbot) **PROFESSIONAL INTERNSHIP**
 *AI Engineer Internship Project | First Hub | Team Collaboration*
 - **Neural Network AI**: PyTorch-based intent classification for Arabic/English
 - **Speech Recognition**: Arabic voice input with Google Speech API
@@ -36,35 +28,72 @@ Welcome to my GitHub portfolio! I'm passionate about building intelligent softwa
 - **Business Application**: Developed to solve real client communication needs
 
 ### [NASA BioScience Engine](https://github.com/Bader-Aljaberi/NASA-Space-Apps-Hackathon-Project)
-*Knowledge engine for NASA bioscience data*
-- Advanced search and data analysis
-- API integration and processing
-- Scientific data exploration
+*NASA Space Apps Hackathon | Top Regional Submission*
+- **Advanced Search Engine**: Knowledge engine for NASA bioscience data
+- **API Integration**: Multiple NASA and scientific data source integration
+- **Data Analysis**: Complex scientific data processing and visualization
+- **Hackathon Excellence**: Recognized as top regional submission
+
+### [Refresh by Albader Website](https://github.com/Bader-Aljaberi/refresh-by-albader-website) **ACADEMIC PROJECT**
+*University Technology Class | Full-Stack Development*
+- **Full-stack web development** with Bootstrap 4.6
+- **Responsive design** for mobile, tablet, and desktop
+- **Interactive features** including carousel, product cards, and gallery
+- **Bahraini cultural integration** (Arabic coffee, date ice cream concepts)
+- **Professional documentation** with README, license, and testing checklist
+
+### [Albader Gallery Website](https://github.com/Bader-Aljaberi/albader-gallery-website) **ACADEMIC PROJECT**
+*University Technology Class | Multi-Page Design*
+- **6-page website** with complete navigation system
+- **Responsive design** using CSS Grid and Flexbox
+- **Interactive contact form** with JavaScript validation
+- **Professional styling** with custom color palette
+- **Complete documentation** with requirements checklist  
 
 ### [Nasser Bot](https://github.com/Bader-Aljaberi/nasser-bot-gcc-assistant)  
-*GCC countries information chatbot*
-- Natural language processing
-- Information retrieval system
-- Conversational AI implementation
+*GCC Countries Information Chatbot*
+- **Natural Language Processing**: Intent recognition and response generation
+- **Information Retrieval**: Structured data access system
+- **Conversational AI**: Interactive question-answering implementation
 
 ### [Voice Bridge](https://github.com/Bader-Aljaberi/VoiceBridge)
-*Real-time voice communication system*
-- Voice recording and playback functionality
-- Real-time audio processing
-- Cross-platform communication bridge
-- User-friendly interface design
+*Real-time Voice Communication System*
+- **Audio Processing**: Voice recording and playback functionality
+- **Real-time Communication**: Cross-platform audio bridge
+- **User Interface**: Intuitive design for seamless user experience
 
-## 💻 Technical Skills
+## Professional Experience
 
-**Programming:** Python, JavaScript, HTML/CSS, Java  
-**Technologies:** Git, Jupyter, AST Parsing, REST APIs, Data Analysis  
-**Concepts:** Data Structures, Algorithms, OOP, Software Architecture, AI/ML
+**Software Engineering Intern** | *Almoayyed Commercial Services*  
+- Developed production recommendation systems using Python/Flask and React
+- Implemented complex algorithms for academic track suitability scoring
+- Optimized database queries and caching systems for high performance
+- Collaborated in Agile development team with code reviews and CI/CD practices
 
-## 📫 Let's Connect
+**AI Engineer Intern** | *First Hub*  
+- Built bilingual Arabic-English chatbot with neural network classification
+- Implemented speech recognition and natural language processing
+- Developed RESTful APIs and scalable system architecture
+
+## Technical Skills
+
+**Languages**: Python, JavaScript, Java, HTML/CSS, SQL  
+**Frameworks & Libraries**: Flask, React, PyTorch, Bootstrap, NumPy, Pandas  
+**Databases**: PostgreSQL, Redis, SQLite  
+**Tools & Platforms**: Git, Docker, AWS, REST APIs, Jupyter, Postman  
+**Concepts**: Data Structures & Algorithms, OOP, System Design, AI/ML, CI/CD, Agile Development
+
+## Project Progression
+1. **Academic Foundations** -> Web development and basic programming
+2. **Hackathon & Innovation** -> NASA project and creative problem-solving
+3. **AI Specialization** -> Arabic-English chatbot with neural networks
+4. **Professional Development** -> Production software at Almoayyed Commercial Services
+
+## Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/bader-aljaberi-a593b8367/)
-- [Email: badran.aljaberi@gmail.com]
+- Email: badran.aljaberi@gmail.com
 
 ---
 
-*"Transforming ideas into functional code"*
+*"From academic projects to professional software engineering – building scalable solutions with real-world impact."*
