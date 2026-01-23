@@ -25,6 +25,16 @@ Welcome to my GitHub portfolio! I'm passionate about building intelligent softwa
 - **University project** demonstrating multi-page web development
 - **Complete documentation** with requirements checklist  
 
+### [Arabic-English Bilingual Chatbot](https://github.com/Bader-Aljaberi/arabic-english-chatbot) 🏆 **FLAGSHIP PROJECT**
+*AI Engineer Internship Project | First Hub | Team Collaboration*
+- **Neural Network AI**: PyTorch-based intent classification for Arabic/English
+- **Speech Recognition**: Arabic voice input with Google Speech API
+- **Bilingual Processing**: Understands Modern Standard Arabic, Bahraini dialect, and English
+- **Professional Development**: Created during AI Engineer internship with team collaboration
+- **Full-Stack Architecture**: Flask REST API with clean, scalable design
+- **Arabic NLP**: Advanced language processing using camel-tools library
+- **Business Application**: Developed to solve real client communication needs
+
 ### [NASA BioScience Engine](https://github.com/Bader-Aljaberi/NASA-Space-Apps-Hackathon-Project)
 *Knowledge engine for NASA bioscience data*
 - Advanced search and data analysis
